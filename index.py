@@ -1,1 +1,0 @@
-print("Zo'r ishlayabdimi?")
