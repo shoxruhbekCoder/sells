@@ -1,1 +1,1 @@
-print("Zo'r ishlayabdi")
+print("Zo'r ishlayabdimi?")
